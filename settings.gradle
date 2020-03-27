@@ -1,0 +1,2 @@
+rootProject.name='ExternalLibraries'
+include ':app'
